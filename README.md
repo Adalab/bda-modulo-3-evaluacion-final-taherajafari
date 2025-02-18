@@ -1,5 +1,5 @@
 Ejercicio Final: Análisis de Datos de Clientes de una Aerolínea
-Este repositorio contiene el código y los análisis realizados como parte del ejercicio final del módulo de análisis de datos. El objetivo es explorar, limpiar y visualizar datos relacionados con el programa de lealtad de una aerolínea, así como realizar un análisis estadístico para evaluar diferencias en las reservas de vuelos según el nivel educativo de los clientes.
+Este repositorio contiene el código y los análisis realizados como parte del ejercicio final del módulo 3 de análisis de datos. El objetivo es explorar, limpiar y visualizar datos relacionados con el programa de lealtad de una aerolínea, así como realizar un análisis estadístico para evaluar diferencias en las reservas de vuelos según el nivel educativo de los clientes.
 
 Estructura del Proyecto
 Fase 1: Exploración y Limpieza
